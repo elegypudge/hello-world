@@ -1,2 +1,1 @@
-(baoc1bZDJAI.jpg)
-(jacFUzw1NE4.jpg)
+https://github.com/elegypudge/hello-world/blob/main/baoc1bZDJAI.jpg
